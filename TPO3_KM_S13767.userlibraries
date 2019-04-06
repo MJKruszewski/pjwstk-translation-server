@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jackson-databind-2.9.8" />
+  <library name="javax.xml.bind:jaxb-api:2.3.1">
+    <archive path="/Users/maciejkruszewski/Downloads/TPO3_KM_S13767/lib/jaxb-api-2.3.1.jar" />
+    <archive path="/Users/maciejkruszewski/Downloads/TPO3_KM_S13767/lib/javax.activation-api-1.2.0.jar" />
+  </library>
+  <library name="org.apache.logging.log4j:log4j-core:2.11.2">
+    <archive path="/Users/maciejkruszewski/Downloads/TPO3_KM_S13767/lib/log4j-core-2.11.2.jar" />
+    <archive path="/Users/maciejkruszewski/Downloads/TPO3_KM_S13767/lib/log4j-api-2.11.2.jar" />
+  </library>
+</eclipse-userlibraries>
+
